@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("test1で実装")
+        print("test3を実装")
+        print("test3push後に実装")
     }
 }
 
