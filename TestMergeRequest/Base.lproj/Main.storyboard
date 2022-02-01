@@ -16,8 +16,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w7J-jR-62N">
-                                <rect key="frame" x="186" y="344" width="42" height="21"/>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r5A-UN-59G">
                                 <rect key="frame" x="186" y="244" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -28,8 +26,6 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="w7J-jR-62N" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="300" id="UG4-qR-SZQ"/>
-                            <constraint firstItem="w7J-jR-62N" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="bY9-VB-Wgl"/>
                             <constraint firstItem="r5A-UN-59G" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="0Tl-k5-6ai"/>
                             <constraint firstItem="r5A-UN-59G" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="200" id="ZSp-Az-6lc"/>
                         </constraints>
@@ -37,7 +33,6 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="114" y="84"/>
             <point key="canvasLocation" x="114" y="70"/>
         </scene>
     </scenes>
