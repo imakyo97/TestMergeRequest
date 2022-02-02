@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("test4push後に実装")
         print("test6を実装")
         print("test5を実装")
+        print("test9を実装")
     }
 }
 
